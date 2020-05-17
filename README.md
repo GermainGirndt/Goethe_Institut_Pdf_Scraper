@@ -1,6 +1,6 @@
-# Goethe_Institut_Pdf_Scraper
-
-A web scraper for downloading Goethe Institut's pdf files - working on 17-05-2020
+# Goethe_Institut_Pdf_Scraper 
+     
+A web scraper for downloading Goethe Institut's pdf files -> Working on 17-05-2020
 
 ![Scraper GIF](https://user-images.githubusercontent.com/52306002/82161472-65838300-9873-11ea-9aa1-d07e8ba4a784.gif)
 
