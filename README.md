@@ -1,4 +1,4 @@
-# Goethe_Institut_Pdf_Scraper 
+# Goethe Institut - Pdf Scraper 
      
 A web scraper for downloading Goethe Institut's pdf files -> Working on 17-05-2020
 
