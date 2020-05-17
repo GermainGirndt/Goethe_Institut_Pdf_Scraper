@@ -1,7 +1,6 @@
-from requests_html import HTML, HTMLSession
+from requests_html import HTMLSession
 from urllib.request import urlretrieve
 import os
-import time
 
 session = HTMLSession()
 r = session.get('https://www.goethe.de/ins/gb/de/spr/unt/kum/dfj/kid.html')
